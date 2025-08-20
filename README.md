@@ -1,12 +1,16 @@
-# 👋 Hi there, I'm Ravneet Kaur
+
+
+
+👋 Hi there, I'm Ravneet Kaur
 
 🎓 **B.Tech CSE Student** (Batch ’26)  
 💻 MERN Stack Enthusiast | Aspiring Software Engineer 
 📚 Actively practicing **DSA**, building real-world web apps, and exploring System Design  
 🌱 Passionate about Open Source, Web Development, & solving impactful problems
- 
+
+
 📊 GitHub Projects: [github.com/ravneetk25](https://github.com/ravneetk25)  
-💡 Codolio Profile: [codolio.com/profile/ravneet_25](https://codolio.com/profile/ravneet_25)
+💡 LeetCode Profile: [leetcode.com/u/ravneet_25](https://leetcode.com/u/ravneet_25/)
 
 ---
 
@@ -25,16 +29,23 @@
 
 ---
 
-## 🏆 Codolio Badge  
+## 🏆 LeetCode Stats  
 
-[![Codolio Profile](https://img.shields.io/badge/Codolio-ravneet__25-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/ravneet_25)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ravneet_25?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/ravneet_25/)  
 
 ---
 
 ## 📊 GitHub Stats  
 
 ![Ravneet’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravneetk25&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stat)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravneetk25&layout=compact&theme=radical)
+
+---
+
+## 👀 Profile Visitors  
+
+![](https://komarev.com/ghpvc/?username=ravneetk25&color=blue)
+
 
 
 
