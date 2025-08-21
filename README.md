@@ -34,6 +34,21 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ravneet_25?theme=dark&font=Baloo%202&ext=heatmap)](https://leetcode.com/u/ravneet_25/)  
 
 ---
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravneetk25" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>
+  </a>
+  <a href="mailto:your_email@example.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
+  </a>
+</p>
+
+---
 
 ## 📊 GitHub Stats   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravneetk25&layout=compact&theme=radical)
