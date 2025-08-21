@@ -9,7 +9,7 @@
 🌱 Passionate about Open Source, Web Development, & solving impactful problems
 
 
-📊 GitHub Projects: [github.com/ravneetk25](https://github.com/ravneetk25)  
+📊 Coding Profile: [codolio.com/profile/ravneet_25](https://codolio.com/profile/ravneet_25)
 💡 LeetCode Profile: [leetcode.com/u/ravneet_25](https://leetcode.com/u/ravneet_25/)
 
 ---
