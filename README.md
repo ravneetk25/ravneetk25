@@ -267,7 +267,7 @@ Building smart agents that help me travel plan, code review, and maybe beat my L
 <table>
 <tr>
 <td align="center">
-<a href="https://linkedin.com/in/ravneet-kaur">
+<a href="https://www.linkedin.com/in/ravneet-kaur-b4540a21b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FF69B4" alt="LinkedIn"/>
 </a>
 </td>
